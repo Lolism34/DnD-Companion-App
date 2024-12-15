@@ -1,0 +1,98 @@
+<conditions>
+    <condition>
+        <name>Paralyze</name>
+        <description>Unable to move.</description>
+    </condition>
+    <condition>
+        <name>Poison</name>
+        <description>Disadvantage on attacks and ability checks.</description>
+    </condition>
+    <condition>
+        <name>Burn</name>
+        <description>Takes fire damage over time (e.g., 1d6 damage at the start of each turn).</description>
+    </condition>
+    <condition>
+        <name>Blinded</name>
+        <description>Unable to see; any attack rolls against the creature have advantage, and the creature has disadvantage on attack rolls.</description>
+    </condition>
+    <condition>
+        <name>Charmed</name>
+        <description>The creature cannot attack the charmer and is friendly toward them.</description>
+    </condition>
+    <condition>
+        <name>Deafened</name>
+        <description>Unable to hear; disadvantage on Wisdom (Perception) checks that rely on hearing.</description>
+    </condition>
+    <condition>
+        <name>Frightened</name>
+        <description>The creature has disadvantage on ability checks and attack rolls while the source of its fear is within line of sight. The creature can't willingly move closer to the source of its fear.</description>
+    </condition>
+    <condition>
+        <name>Grappled</name>
+        <description>The creature's speed becomes 0, and it can't benefit from any bonus to its speed.</description>
+    </condition>
+    <condition>
+        <name>Incapacitated</name>
+        <description>The creature cannot take actions or reactions.</description>
+    </condition>
+    <condition>
+        <name>Invisible</name>
+        <description>The creature is impossible to see without the aid of magic or a special sense; other creatures are unaware of the creature's location.</description>
+    </condition>
+    <condition>
+        <name>Paralyzed</name>
+        <description>The creature is paralyzed and can't move or take actions, including reactions.</description>
+    </condition>
+    <condition>
+        <name>Petrified</name>
+        <description>The creature is turned to stone and cannot move or take actions.</description>
+    </condition>
+    <condition>
+        <name>Poisoned</name>
+        <description>The creature has disadvantage on attack rolls and ability checks.</description>
+    </condition>
+    <condition>
+        <name>Prone</name>
+        <description>The creature is lying on the ground; it takes disadvantage on attack rolls, and attack rolls against it have advantage.</description>
+    </condition>
+    <condition>
+        <name>Restrained</name>
+        <description>The creature's speed becomes 0, and it can't benefit from any bonus to its speed. It has disadvantage on attack rolls and Dexterity saving throws, and attack rolls against it have advantage.</description>
+    </condition>
+    <condition>
+        <name>Stunned</name>
+        <description>The creature is stunned and unable to take actions or reactions; it has disadvantage on all attack rolls.</description>
+    </condition>
+    <condition>
+        <name>Unconscious</name>
+        <description>The creature is unconscious and unaware of its surroundings; it drops anything it is holding, and attacks against it have advantage.</description>
+    </condition>
+    <condition>
+        <name>Unwilling</name>
+        <description>The creature does not want to take an action, such as making a saving throw or being compelled to move somewhere against its will.</description>
+    </condition>
+    <condition>
+        <name>Blinded</name>
+        <description>Can't see; attackers have advantage against the creature.</description>
+    </condition>
+    <condition>
+        <name>Fear</name>
+        <description>The creature must move away from the source of the fear if possible, and it has disadvantage on ability checks and attack rolls.</description>
+    </condition>
+    <condition>
+        <name>Frostbite</name>
+        <description>The creature suffers from extreme cold, taking damage and disadvantage on attack rolls.</description>
+    </condition>
+    <condition>
+        <name>Marked</name>
+        <description>Enemies who can see the creature have advantage on attack rolls against it.</description>
+    </condition>
+    <condition>
+        <name>Hexed</name>
+        <description>The creature has disadvantage on ability checks with one specific ability score.</description>
+    </condition>
+    <condition>
+        <name>Marked for Death</name>
+        <description>The creature takes extra damage from attacks, typically associated with an effect or curse.</description>
+    </condition>
+</conditions>
